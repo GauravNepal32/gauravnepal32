@@ -10,7 +10,7 @@
 </div>
 
 
-- 🔭 I’m currently working with Adsaro UK
+- 🔭 I’m currently working with Softsaro
 - 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me: gauravnepal3@gmail.com
 
